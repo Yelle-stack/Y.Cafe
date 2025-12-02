@@ -1,9 +1,9 @@
-Y.Cafe – Coffee Shop Website
+# ☕️ Y.Cafe – Coffee Shop Website
 
 A modern and responsive coffee shop landing page built using **HTML**, **CSS**, and **JavaScript**.  
 It features smooth animations, a Swiper.js review carousel, and mobile-friendly navigation.
 
-Features
+## Features
 - Responsive design for all screen sizes  
 - Animated sections with ScrollReveal  
 - Interactive product showcase  
@@ -11,7 +11,7 @@ Features
 - Mobile menu toggle animation  
 - Simple booking form
 
-- Technologies Used
+## 🛠️Technologies Used
 - HTML5  
 - CSS3 (Flexbox, Grid, Variables)  
 - JavaScript (ES6)  
